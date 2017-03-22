@@ -1,0 +1,111 @@
+body {
+  background-color: #CFCBCA;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  color: #5C6B73;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: #DD5555;
+  font-size: 18px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+p {
+  font-size: 13px
+}
+
+
+a {
+  color:#ABA194;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #DD5555;
+}
+
+img {
+  width: 150px;
+  margin: 5px;
+}
+
+#pres {
+  margin-bottom: 20px;
+}
+
+
+.profil {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  transition: all 0.5s linear;
+  border: 3px solid #cccccc;
+}
+
+.profil:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.profilzone {
+  display: inline-block;
+}
+
+#prof {
+float: left;}
+
+.info {
+  padding: 50px 4px 36px 226px;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color:#FFFFFF;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 6px #88898E;
+}
+
+.center {
+  text-align: center;
+}
+
+.list-inline li {
+ display: inline-block;
+ text-align: center;
+ padding: 10px;
+ line-height: 6px;
+}
+
+.list-inline {
+  padding: 0px;
+}
+
+.social i {
+  font-size:20px;
+}
+
+.btn-red {
+  background-color: #8C271E ;
+  color: white;
+  font-weight 500;
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 40px;
+}
