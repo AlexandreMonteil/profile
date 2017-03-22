@@ -3,6 +3,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   color: #5C6B73;
+  background-image:url(images/fond.jpg);
+  margin:0;
 }
 
 h1 {
